@@ -1,0 +1,147 @@
+.header{
+    display: fleX;
+    flex-direction: row;
+    justify-content:space-between;
+    height:50px;
+    background-color: aquamarine;
+}
+.image{
+    display: fleX;
+    flex-direction: row;
+    width: 60px;
+    margin-left: 10px;
+    background-color: deeppink;
+    height: 25px;
+    margin-top: 8px;
+}
+.menu{
+    display: fleX;
+    flex-direction: row;
+    justify-content:space-between;
+    width: 500px;
+}
+.men,.women,.kids,.homeliving,.beauty,.studio{
+    display:flex;
+    flex-direction: row;
+    background-color: blueviolet;
+    height: 25px;
+    margin-top: 10px;
+
+}
+.searchContainer{
+    display: fleX;
+    flex-direction: row;
+    width: 150px;
+    background-color:fuchsia;
+    height: 25px;
+    margin-top: 10px;
+}
+.navigation{
+    display: fleX;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 200px;
+    margin-right: 10px;
+   
+}
+.profile,.wishlist,.bag{
+    display:flex;
+    flex-direction: row;
+    background-color: darkmagenta;
+    height: 25px;
+    margin-top: 10px;
+}
+.bodydata{
+    display: fleX;
+    flex-direction: row;
+    justify-content: space-between;
+    height:550px;
+}
+
+.list{
+     display: fleX;
+    flex-direction: row wrap;
+    background-color: chocolate;
+    width:1000px;
+    height:500px
+    
+}
+.scrollBar{
+    display: fleX;
+    height:55px;
+    width:200px;
+    margin-top: 400px;
+    margin-left: 400px;
+    background-color: hotpink;
+}
+.items{
+    display: flex;
+    flex-direction:column;
+
+}
+.brands{
+    display: fleX;
+    flex-direction:row;
+    justify-content:space-between;
+    width: 375px;
+    height: 200px;
+}
+.brand1{
+    display: fleX;
+    flex-direction: row;
+    height:60px;
+    width: 100px;
+   margin-top: 120px;
+   background-color: brown;
+}
+.brand2{
+    display: fleX;
+    flex-direction: row;
+    width:100px;
+    height:60px;
+    margin-top: 120px;
+    background-color: brown;
+}
+.morebrands{
+    display: fleX;
+    flex-direction: row;
+    height:60px;
+    width: 100px;
+    margin-top: 120px;
+    background-color: brown;
+}
+.discount{
+    display: fleX;
+    flex-direction: row;
+    height: 50px;
+    background-color: darkcyan;
+
+}
+.ex{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    background-color: darkcyan;
+}
+.off{
+    display: fleX;
+    flex-direction: row;
+}
+.offers{
+    display: fleX;
+    margin-top: 170px;
+    width: 50px;
+    background-color: crimson;
+}
+.textMessage{
+    display: fleX;
+    justify-content: row;
+    height: 50px;
+    background-color: violet;
+}
+.message{
+    display: fleX;
+    justify-content: row;
+    background-color: violet;
+}
+
